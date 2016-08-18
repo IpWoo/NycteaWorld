@@ -68,6 +68,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Example\Script\ColiderTest.cs" />
     <Compile Include="Assets\Example\Script\AssetBundleLoad.cs" />
     <Compile Include="Assets\Example\Script\Receiver.cs" />
     <Compile Include="Assets\Example\Script\Sender.cs" />

@@ -48,7 +48,7 @@ public class GameManager : QSingleton<GameManager>
         {
             Debug.Log("load world.scene done");
         };
-        SceneMgr.Instance().EnterScene("loading.scene", null, "world.scene",  null, loadSceneDoneCallback, null);
+        SceneMgr.Instance().EnterScene("loading.scene", null, "Collider.scene",  null, loadSceneDoneCallback, null);
         yield return null;
     }
 

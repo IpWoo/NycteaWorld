@@ -22,6 +22,9 @@ ModelImporter:
     4300000: GroundExtents
     4300002: GroundLines
     4300004: GroundObstacles
+    6400000: GroundExtents
+    6400002: GroundLines
+    6400004: GroundObstacles
   materials:
     importMaterials: 1
     materialName: 0
@@ -48,7 +51,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
